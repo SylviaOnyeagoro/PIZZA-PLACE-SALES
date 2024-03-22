@@ -46,5 +46,7 @@ Cost Analysis: A new table was created to incorporate the cost of goods sold (CO
 
 This approach ensured a clean, well-structured dataset that empowered the extraction of valuable insights into sales performance, product variety, and customer behavior.
 
+For the code check the Pizza_sales.sql file.
+
 
 
